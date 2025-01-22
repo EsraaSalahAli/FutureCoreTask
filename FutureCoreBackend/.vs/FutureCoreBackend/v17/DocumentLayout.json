@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\controllers\\familymembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:controllers\\familymembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\automapper\\familymemberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:automapper\\familymemberprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\automapper\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:automapper\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\dto\\responsedto\\familymemberresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:dto\\responsedto\\familymemberresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\dto\\responsedto\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:dto\\responsedto\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\dto\\familymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:dto\\familymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\repository\\familymemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:repository\\familymemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\repository\\ifamilymemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:repository\\ifamilymemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\models\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:models\\familymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:models\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:46:15.37Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Models\\Context.cs",
+              "RelativeDocumentMoniker": "Models\\Context.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Models\\Context.cs",
+              "RelativeToolTip": "Models\\Context.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:40:36.03Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\AutoMapper\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "AutoMapper\\EmployeeProfile.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\AutoMapper\\EmployeeProfile.cs",
+              "RelativeToolTip": "AutoMapper\\EmployeeProfile.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:29:55.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeResponseDTO.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\ResponseDTO\\EmployeeResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponseDTO\\EmployeeResponseDTO.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\ResponseDTO\\EmployeeResponseDTO.cs",
+              "RelativeToolTip": "DTO\\ResponseDTO\\EmployeeResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:29:29.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FamilyMemberDTO.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\FamilyMemberDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\FamilyMemberDTO.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\FamilyMemberDTO.cs",
+              "RelativeToolTip": "DTO\\FamilyMemberDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T21:08:53.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpolyeeController.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Controllers\\EmpolyeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmpolyeeController.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Controllers\\EmpolyeeController.cs",
+              "RelativeToolTip": "Controllers\\EmpolyeeController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAH4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:53:14.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FamilyMemberController.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Controllers\\FamilyMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FamilyMemberController.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Controllers\\FamilyMemberController.cs",
+              "RelativeToolTip": "Controllers\\FamilyMemberController.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAuwN8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:21:08.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\EmployeeDTO.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\EmployeeDTO.cs",
+              "RelativeToolTip": "DTO\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:27:55.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FamilyMemberProfile.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\AutoMapper\\FamilyMemberProfile.cs",
+              "RelativeDocumentMoniker": "AutoMapper\\FamilyMemberProfile.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\AutoMapper\\FamilyMemberProfile.cs",
+              "RelativeToolTip": "AutoMapper\\FamilyMemberProfile.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:20:41.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA/wA0AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:14:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FamilyMemberResponseDTO.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\ResponseDTO\\FamilyMemberResponseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ResponseDTO\\FamilyMemberResponseDTO.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\ResponseDTO\\FamilyMemberResponseDTO.cs",
+              "RelativeToolTip": "DTO\\ResponseDTO\\FamilyMemberResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:36:29.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FamilyMember.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Models\\FamilyMember.cs",
+              "RelativeDocumentMoniker": "Models\\FamilyMember.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Models\\FamilyMember.cs",
+              "RelativeToolTip": "Models\\FamilyMember.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA4wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:18:17.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:25:39.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repository.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\Repository.cs",
+              "RelativeToolTip": "Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:25:03.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:27:30.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FamilyMemberRepo.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\FamilyMemberRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\FamilyMemberRepo.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\FamilyMemberRepo.cs",
+              "RelativeToolTip": "Repository\\FamilyMemberRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:51:21.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFamilyMemberRepo.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\IFamilyMemberRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\IFamilyMemberRepo.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\IFamilyMemberRepo.cs",
+              "RelativeToolTip": "Repository\\IFamilyMemberRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:54:43.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Repository\\IUnitOfWork.cs",
+              "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Repository\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:28:08.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
