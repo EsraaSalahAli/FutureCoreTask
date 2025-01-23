@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\controllers\\familymembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:controllers\\familymembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\dto\\familymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:dto\\familymemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|solutionrelative:controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3DFB9C1-A715-4E78-9E42-C7464872CC5F}|FutureCoreBackend.csproj|d:\\f\\esraa\\task\\futurecoretask\\futurecorebackend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmployeeProfile.cs",
               "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\AutoMapper\\EmployeeProfile.cs",
               "RelativeDocumentMoniker": "AutoMapper\\EmployeeProfile.cs",
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EmployeeResponseDTO.cs",
               "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\ResponseDTO\\EmployeeResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ResponseDTO\\EmployeeResponseDTO.cs",
@@ -140,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FamilyMemberDTO.cs",
               "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\FamilyMemberDTO.cs",
               "RelativeDocumentMoniker": "DTO\\FamilyMemberDTO.cs",
@@ -153,33 +153,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "EmpolyeeController.cs",
               "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Controllers\\EmpolyeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmpolyeeController.cs",
               "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Controllers\\EmpolyeeController.cs",
               "RelativeToolTip": "Controllers\\EmpolyeeController.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAAAH4AAABBAAAA",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAGsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T18:53:14.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FamilyMemberController.cs",
               "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Controllers\\FamilyMemberController.cs",
               "RelativeDocumentMoniker": "Controllers\\FamilyMemberController.cs",
               "ToolTip": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\Controllers\\FamilyMemberController.cs",
               "RelativeToolTip": "Controllers\\FamilyMemberController.cs",
-              "ViewState": "AQIAAN4AAAAAAAAAAAAuwN8AAAAiAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAE4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T18:21:08.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EmployeeDTO.cs",
               "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\EmployeeDTO.cs",
               "RelativeDocumentMoniker": "DTO\\EmployeeDTO.cs",
@@ -192,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FamilyMemberProfile.cs",
               "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\AutoMapper\\FamilyMemberProfile.cs",
               "RelativeDocumentMoniker": "AutoMapper\\FamilyMemberProfile.cs",
@@ -218,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FamilyMemberResponseDTO.cs",
               "DocumentMoniker": "D:\\F\\Esraa\\Task\\FutureCoreTask\\FutureCoreBackend\\DTO\\ResponseDTO\\FamilyMemberResponseDTO.cs",
               "RelativeDocumentMoniker": "DTO\\ResponseDTO\\FamilyMemberResponseDTO.cs",

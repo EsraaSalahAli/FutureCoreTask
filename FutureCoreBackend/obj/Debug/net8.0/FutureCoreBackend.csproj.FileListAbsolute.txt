@@ -160,3 +160,4 @@ D:\F\Esraa\Task\FutureCoreTask\FutureCoreBackend\obj\Debug\net8.0\FutureCoreBack
 D:\F\Esraa\Task\FutureCoreTask\FutureCoreBackend\obj\Debug\net8.0\FutureCoreBackend.genruntimeconfig.cache
 D:\F\Esraa\Task\FutureCoreTask\FutureCoreBackend\obj\Debug\net8.0\ref\FutureCoreBackend.dll
 D:\F\Esraa\Task\FutureCoreTask\FutureCoreBackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\F\Esraa\Task\FutureCoreTask\FutureCoreBackend\obj\Debug\net8.0\FutureCoreBackend.sourcelink.json

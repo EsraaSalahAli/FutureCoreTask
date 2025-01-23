@@ -94,12 +94,18 @@ namespace FutureCoreBackend.Controllers
                 var emplyees = await unitOfWork.EmployeeRepo.GetAllAsync();
 
                 var paginatedList = await unitOfWork.EmployeeRepo.GetAllPaginated(emplyees, pageIndex, pageSize);
-
+                var paginatedResponse = new PaginatedList<EmployeeResponseDTO>()
+                {
+                    Items = mapper.Map<List<EmployeeResponseDTO>>(paginatedList.Items),
+                    PageCount = paginatedList.PageCount,
+                    PageIndex = pageIndex,
+                    Count = paginatedList.Count
+                };
 
                 result.Statescode = StatusCodes.Status200OK;
                 result.Message = "Employees retrevied successfully.";
-                result.Data = paginatedList;
-                result.Count = paginatedList.Count;
+                result.Data = paginatedResponse;
+                result.Count = paginatedResponse.Count;
             }
             catch (Exception ex)
             {

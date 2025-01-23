@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FutureCoreBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+662098de93386d6a68662d51a14a3400dcaef874")]
 [assembly: System.Reflection.AssemblyProductAttribute("FutureCoreBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FutureCoreBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
